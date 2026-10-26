@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Values version="2.0">
-  <value name="enabled">yes</value>
+  <value name="enabled">no</value>
   <value name="system_package">no</value>
   <value name="version">1.0</value>
   <value name="name">SerengetiGH2610Project</value>
@@ -9,18 +9,18 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <record name="requires" javaclass="com.wm.util.Values">
-    <value name="substractpackage">5.0</value>
+    <value name="substractpackage">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">4</value>
+  <value name="build">5</value>
   <null name="description"/>
   <value name="created_date">26-10-2026 03:42:29 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2026-10-26T03:46:11.893392262Z</value>
+  <value name="lastUpdated">2026-10-26T03:48:53.777317296Z</value>
   <value name="wmProjectId">fl71ae2f77eb602953c7598a</value>
   <value name="creator">Arti Khare</value>
 </Values>

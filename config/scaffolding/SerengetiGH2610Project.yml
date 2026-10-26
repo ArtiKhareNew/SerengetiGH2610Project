@@ -11,4 +11,4 @@ packages:
   gitServerName: srcCtrl_gitlab_Arti
   gitUrl: https://gitlab.com/ArtiKhareGitlab
   gitUsername: ArtiKhareGitlab
-  gitBranch: master
+  gitBranch: nestedbranch/new
